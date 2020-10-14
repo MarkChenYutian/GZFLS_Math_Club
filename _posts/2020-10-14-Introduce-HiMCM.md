@@ -22,3 +22,5 @@ This lecture given on 2020/10/15 by Justin Jiao will introduce you to some basic
 Below is the slide of this lecture.
 
 <iframe src="https://onedrive.live.com/embed?cid=AACD96FD289D9DD0&resid=AACD96FD289D9DD0%2177037&authkey=AADdxeoN99wzHyE&em=2" width="784" height="440" frameborder="0" scrolling="no"></iframe>
+
+If your browser can't load the slide, please click <a herf="https://1drv.ms/p/s!AtCdnSj9ls2qhNltKGNOBSvSEK668Q?e=jfGfQ0">here</a> to get a copy from OneDrive. Or, click <a herf="https://pan.baidu.com/s/15dN0bZKV_-al9KHlgogXNA"> here </a> to get a copy from Baidu Net Disk with **Extraction Code: Math**.

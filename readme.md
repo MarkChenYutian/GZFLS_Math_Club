@@ -7,7 +7,8 @@ permalink: index.html
 </head>
 
 # Lecture Notes
-## 美国高中数学建模 | HiMCM
+
+### 美国高中数学建模 | HiMCM
 
 <div>
 {% for post in site.tags["HiMCM"] %}
