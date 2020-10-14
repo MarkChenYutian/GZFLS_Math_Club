@@ -4,7 +4,7 @@ title: 美国高中数学建模比赛 | HiMCM Introduction
 excerpt_seperator: <!--more-->
 tags: HiMCM
 ---
-HiMCM is one of the most important competition on Applied Mathematics and Mathematical Modeling. Comparing to most other competitions, everyone who has a broad interest to STEM subjects can attend this competition. In 9 days, each group will provide a whole report of the mathematical model they has built about the problem. This lecture will introduce you HiMCM. As students who has attend HiMCM in year 2018 and 2019, Justin will introduce you to this interesting competition.
+HiMCM is one of the most important competition on Applied Mathematics and Mathematical Modeling. Comparing to most other math competitions, everyone who has a broad interest to STEM subjects can attend this competition. In 9 days, each group will provide a whole report of the mathematical model they has built and the solution about the problem. This lecture will introduce you to some basic knowledge of HiMCM. As a student who has attended HiMCM in year 2018 and 2019, Justin will introduce you to this interesting competition.
 <!--more-->
 <p></p>
 
